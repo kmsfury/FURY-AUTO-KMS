@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-Slmgr-7FBA00?logo=powershell&logoColor=white&style=flat)](https://docs.microsoft.com/en-us/windows-server/get-started/activation-slmgr-vbs-options) [![](https://img.shields.io/badge/-The_Office_Software_Protection_Platform_script-FFFFFF?logo=powershell&logoColor=black&style=flat)](https://docs.microsoft.com/en-us/deployoffice/vlactivation/tools-to-manage-volume-activation-of-office)
 
 # ENGLISH
-FuryKMS is a GUI (Graphical User Interface) that makes it easy to activate Microsoft Windows 10 - 11 and Office 2013 – 2021 using SLMGR and OSPP (The Office Software Protection Platform script) commands respectively.
+FuryKMS is a GUI (Graphical User Interface) that makes it easy to activate Microsoft Windows 10 - 11 and Office 2013 – 2022 using SLMGR and OSPP (The Office Software Protection Platform script) commands respectively.
 
 All of this is validated on the KMS servers, owned by MS Guides, and therefore these servers **ARE NOT OFFICIAL**, however the security of your computer won’t be compromised.
 
@@ -13,7 +13,7 @@ FuryKMS doesn’t contain any malicious code that could compromise the integrity
 *In the rare case that your antivirus detects it as one, disable it momentarily to use it without problems.*
 
 ## ✏ Summary:
-- Activate Windows 10 - 11, Office 2013 – 2021
+- Activate Windows 10 - 11, Office 2013 – 2022
 - Reactivation of Licenses
 - Elimination of Licenses
 - Exact information of the Licenses
@@ -26,7 +26,7 @@ FuryKMS doesn’t contain any malicious code that could compromise the integrity
 ---
 
 # ESPAÑOL
-FuryKMS es una GUI (interfaz de usuario gráfica) que facilita el trabajo de activación de Microsoft Windows 10 - 11 y Office 2013 – 2021 mediante comandos SLMGR y OSPP (The Office Software Protection Platform script) respectivamente.
+FuryKMS es una GUI (interfaz de usuario gráfica) que facilita el trabajo de activación de Microsoft Windows 10 - 11 y Office 2013 – 2022 mediante comandos SLMGR y OSPP (The Office Software Protection Platform script) respectivamente.
 
 Todo esto se valida en los servidores KMS, propiedad de MS Guides y, por lo tanto, estos servidores NO SON OFICIALES, sin embargo, no se comprometerá la seguridad de su equipo.
 
@@ -35,7 +35,7 @@ FuryKMS no contiene ningún código malicioso que pueda comprometer la integrida
 *En el extraño caso de que su antivirus lo detecte como uno, desactívelo de manera momentánea para usarlo sin problemas.*
 
 ## ✏ Resumen:
-- Activa Windows 10 - 11, Office 2013 – 2021
+- Activa Windows 10 - 11, Office 2013 – 2022
 - Reactivación de Licencias
 - Eliminación de Licencias
 - Información exacta de las Licencias
@@ -50,10 +50,3 @@ FuryKMS no contiene ningún código malicioso que pueda comprometer la integrida
 # 🔰 To Do 🔰
 - [ ] Add MSI Office Registry Keys
 
-# 🖥 Servers Status
-## ☠ Down Servers:
-> kms7.msguides.com
-## ⚠ Unstable Servers:
-> kms8.msguides.com
-
-> kms9.msguides.com
