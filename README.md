@@ -47,6 +47,6 @@ FuryKMS no contiene ningún código malicioso que pueda comprometer la integrida
 
 ---
 
-# 🔰 To Do 🔰
-- [ ] Add MSI Office Registry Keys
+# 🔰 Website 🔰
+- https://furykms.com/
 
